@@ -1,0 +1,80 @@
+{
+  "3916995373f8171be81c31d618a01835" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76948072f83f17f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597632409878,
+        "stop" : 1597632414352,
+        "duration" : 4474
+      }
+    } ]
+  },
+  "f55d80f28d15ff19072763543e0958ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7985f9a7f064fc89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597632425546,
+        "stop" : 1597632430158,
+        "duration" : 4612
+      }
+    } ]
+  },
+  "599becdbe6b285e6a8bb1875029de2f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe1ed7429fbd34c0",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 跳过减法整个模块",
+      "time" : {
+        "start" : 1597632399134,
+        "stop" : 1597632399134,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5f7a17aed7ee579035cb1895f1025021" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5704dc829ffc451f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 跳过减法整个模块",
+      "time" : {
+        "start" : 1597632416432,
+        "stop" : 1597632416432,
+        "duration" : 0
+      }
+    } ]
+  }
+}

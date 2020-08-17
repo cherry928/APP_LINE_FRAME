@@ -1,0 +1,146 @@
+{
+  "uid" : "7985f9a7f064fc89",
+  "name" : "[title][case02]计算3+6",
+  "fullName" : "testcases.test_basic_calulate.test_basic_add.TestBasicAdd#test_basic_add_case02",
+  "historyId" : "f55d80f28d15ff19072763543e0958ec",
+  "time" : {
+    "start" : 1597632425546,
+    "stop" : 1597632430158,
+    "duration" : 4612
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "close_app",
+    "time" : {
+      "start" : 1597632416437,
+      "stop" : 1597632416437,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "driver_setings",
+    "time" : {
+      "start" : 1597632399194,
+      "stop" : 1597632399194,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1597632399138,
+      "stop" : 1597632399194,
+      "duration" : 56
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "start_app",
+    "time" : {
+      "start" : 1597632416437,
+      "stop" : 1597632425546,
+      "duration" : 9109
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "close_app::0",
+    "time" : {
+      "start" : 1597632430159,
+      "stop" : 1597632432218,
+      "duration" : 2059
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "[story]计算器加法测试"
+  }, {
+    "name" : "feature",
+    "value" : "[feature]TestBasicAdd模块"
+  }, {
+    "name" : "epic",
+    "value" : "[epic]计算器APP"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=4)"
+  }, {
+    "name" : "tag",
+    "value" : "systemtest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.test_basic_calulate"
+  }, {
+    "name" : "suite",
+    "value" : "test_basic_add"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBasicAdd"
+  }, {
+    "name" : "host",
+    "value" : "chenjuandeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "66833-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_basic_calulate.test_basic_add"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "systemtest", "run(order=4)" ]
+  },
+  "source" : "7985f9a7f064fc89.json",
+  "parameterValues" : [ ]
+}

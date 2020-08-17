@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Mon Aug 17 10:46:56 CST 2020","Mon Aug 17 10:46:56 CST 2020","0","testcases.test_basic_calulate","test_basic_sub","TestBasicSub","","","[title][case01]计算11-7",""
+"skipped","Mon Aug 17 10:46:39 CST 2020","Mon Aug 17 10:46:39 CST 2020","0","testcases.test_basic_calulate","test_basic_sub","TestBasicSub","","","[title][case02]计算9-6",""
+"passed","Mon Aug 17 10:46:49 CST 2020","Mon Aug 17 10:46:54 CST 2020","4474","testcases.test_basic_calulate","test_basic_add","TestBasicAdd","","","[title][case01]计算7+9",""
+"passed","Mon Aug 17 10:47:05 CST 2020","Mon Aug 17 10:47:10 CST 2020","4612","testcases.test_basic_calulate","test_basic_add","TestBasicAdd","","","[title][case02]计算3+6",""

@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "chenjuandeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "66833-MainThread",
+      "children" : [ {
+        "name" : "[title][case02]计算9-6",
+        "uid" : "fe1ed7429fbd34c0",
+        "parentUid" : "25e957a4ffbb749dd022bb17a587f6de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1597632399134,
+          "stop" : 1597632399134,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[title][case01]计算11-7",
+        "uid" : "5704dc829ffc451f",
+        "parentUid" : "25e957a4ffbb749dd022bb17a587f6de",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1597632416432,
+          "stop" : 1597632416432,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[title][case01]计算7+9",
+        "uid" : "76948072f83f17f3",
+        "parentUid" : "25e957a4ffbb749dd022bb17a587f6de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597632409878,
+          "stop" : 1597632414352,
+          "duration" : 4474
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[title][case02]计算3+6",
+        "uid" : "7985f9a7f064fc89",
+        "parentUid" : "25e957a4ffbb749dd022bb17a587f6de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597632425546,
+          "stop" : 1597632430158,
+          "duration" : 4612
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "25e957a4ffbb749dd022bb17a587f6de"
+    } ],
+    "uid" : "33768ab8178c64a6dfb6cc9ab75fca0a"
+  } ]
+}

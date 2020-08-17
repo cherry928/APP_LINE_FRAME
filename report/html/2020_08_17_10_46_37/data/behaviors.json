@@ -1,0 +1,77 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "[epic]计算器APP",
+    "children" : [ {
+      "name" : "[feature]TestBasicSub模块",
+      "children" : [ {
+        "name" : "[story]计算器减法测试",
+        "children" : [ {
+          "name" : "[title][case02]计算9-6",
+          "uid" : "fe1ed7429fbd34c0",
+          "parentUid" : "d327c2d6fc3e367c4ec9e47fc4bc73d7",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1597632399134,
+            "stop" : 1597632399134,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "[title][case01]计算11-7",
+          "uid" : "5704dc829ffc451f",
+          "parentUid" : "d327c2d6fc3e367c4ec9e47fc4bc73d7",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1597632416432,
+            "stop" : 1597632416432,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d327c2d6fc3e367c4ec9e47fc4bc73d7"
+      } ],
+      "uid" : "c1e80242d8534f71605e780bc456d8f7"
+    }, {
+      "name" : "[feature]TestBasicAdd模块",
+      "children" : [ {
+        "name" : "[story]计算器加法测试",
+        "children" : [ {
+          "name" : "[title][case01]计算7+9",
+          "uid" : "76948072f83f17f3",
+          "parentUid" : "c9d1a1484f921eef3303f65ad0a1d859",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597632409878,
+            "stop" : 1597632414352,
+            "duration" : 4474
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "[title][case02]计算3+6",
+          "uid" : "7985f9a7f064fc89",
+          "parentUid" : "c9d1a1484f921eef3303f65ad0a1d859",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597632425546,
+            "stop" : 1597632430158,
+            "duration" : 4612
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c9d1a1484f921eef3303f65ad0a1d859"
+      } ],
+      "uid" : "89888fc49013f5bdaf453fa619e82b55"
+    } ],
+    "uid" : "6deaa46602abb430b361c7aba437ca6e"
+  } ]
+}

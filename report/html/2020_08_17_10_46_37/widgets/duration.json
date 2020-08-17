@@ -1,0 +1,41 @@
+[ {
+  "uid" : "5704dc829ffc451f",
+  "name" : "[title][case01]计算11-7",
+  "time" : {
+    "start" : 1597632416432,
+    "stop" : 1597632416432,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fe1ed7429fbd34c0",
+  "name" : "[title][case02]计算9-6",
+  "time" : {
+    "start" : 1597632399134,
+    "stop" : 1597632399134,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "76948072f83f17f3",
+  "name" : "[title][case01]计算7+9",
+  "time" : {
+    "start" : 1597632409878,
+    "stop" : 1597632414352,
+    "duration" : 4474
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7985f9a7f064fc89",
+  "name" : "[title][case02]计算3+6",
+  "time" : {
+    "start" : 1597632425546,
+    "stop" : 1597632430158,
+    "duration" : 4612
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

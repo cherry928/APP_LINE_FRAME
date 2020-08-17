@@ -1,0 +1,151 @@
+{
+  "uid" : "fe1ed7429fbd34c0",
+  "name" : "[title][case02]计算9-6",
+  "fullName" : "testcases.test_basic_calulate.test_basic_sub.TestBasicSub#test_basic_add_case02",
+  "historyId" : "599becdbe6b285e6a8bb1875029de2f5",
+  "time" : {
+    "start" : 1597632399134,
+    "stop" : 1597632399134,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: 跳过减法整个模块",
+  "statusTrace" : "('/Users/chenjuan/Documents/cherry/Python/pycharm/APP_LINE_FRAME/testcases/test_basic_calulate/test_basic_sub.py', 30, 'Skipped: 跳过减法整个模块')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "close_app",
+    "time" : {
+      "start" : 1597632399195,
+      "stop" : 1597632399195,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "start_app",
+    "time" : {
+      "start" : 1597632399195,
+      "stop" : 1597632409877,
+      "duration" : 10682
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "driver_setings",
+    "time" : {
+      "start" : 1597632399194,
+      "stop" : 1597632399194,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1597632399138,
+      "stop" : 1597632399194,
+      "duration" : 56
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "close_app::0",
+    "time" : {
+      "start" : 1597632414353,
+      "stop" : 1597632416430,
+      "duration" : 2077
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "[story]计算器减法测试"
+  }, {
+    "name" : "epic",
+    "value" : "[epic]计算器APP"
+  }, {
+    "name" : "feature",
+    "value" : "[feature]TestBasicSub模块"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "tag",
+    "value" : "systemtest"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip('跳过减法整个模块')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.test_basic_calulate"
+  }, {
+    "name" : "suite",
+    "value" : "test_basic_sub"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBasicSub"
+  }, {
+    "name" : "host",
+    "value" : "chenjuandeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "66833-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_basic_calulate.test_basic_sub"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "systemtest", "run(order=1)", "@pytest.mark.skip('跳过减法整个模块')" ]
+  },
+  "source" : "fe1ed7429fbd34c0.json",
+  "parameterValues" : [ ]
+}
